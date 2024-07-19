@@ -1,0 +1,8 @@
+# ninja log v6
+940	1245	7430804452164414	Clion.exe	8a878625e0b3a32
+11	940	7430804442877824	CMakeFiles/Clion.dir/src/Graph.cpp.obj	6d5cee342e018225
+5	460	7430804442807832	CMakeFiles/Clion.dir/src/main.cpp.obj	664fbd410c0ec007
+2	217	7430820687023218	build.ninja	71de10942c300538
+5	457	7430820768904835	CMakeFiles/Clion.dir/src/main.cpp.obj	d15b485ab1c3d488
+11	946	7430820768964820	CMakeFiles/Clion.dir/src/Graph.cpp.obj	e0a038c619a3a888
+946	1244	7430820778314789	Clion.exe	8a878625e0b3a32
