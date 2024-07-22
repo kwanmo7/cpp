@@ -1,3 +1,0 @@
-C:/Users/kwanm/git/visualCamp/Clion/cmake-build-debug/CMakeFiles/Clion.dir
-C:/Users/kwanm/git/visualCamp/Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kwanm/git/visualCamp/Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
