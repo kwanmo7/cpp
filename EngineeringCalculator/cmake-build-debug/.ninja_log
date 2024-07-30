@@ -1,0 +1,4 @@
+# ninja log v6
+1	254	7440467487284168	CMakeFiles/EngineeringCalculator.dir/src/main.cpp.obj	c19fd0e736396540
+8	306	7440467487344164	CMakeFiles/EngineeringCalculator.dir/src/calculator.cpp.obj	b19653e3658aaa61
+306	410	7440467490323853	EngineeringCalculator.exe	b2c829fc25485fa0
