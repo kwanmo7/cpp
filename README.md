@@ -1,9 +1,10 @@
 C++
 
 VERSION - C++ 17
-IDE - CLion
+IDE - CLion , Visual Studio 2022
 
 
 DAG - Directed Acylic Graph
 
-EngineeringCalculator
+EngineeringCalculator - prompt
+EngineeringCalculator2 - wxWidgets(Incomplete / under development)
