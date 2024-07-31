@@ -8,4 +8,11 @@ DAG - Directed Acylic Graph
 
 EngineeringCalculator - prompt
 
-EngineeringCalculator2 - wxWidgets(Incomplete / under development)
+-- Incomplete / under development --
+
+EngineeringCalculator2 - wxWidgets
+
+Calendar - Clion , wxWidgets , CMake
+
+Calendar2 - visualStudio 2022 , wxWidgets
+
